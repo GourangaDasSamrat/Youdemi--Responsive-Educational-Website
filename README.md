@@ -2,7 +2,7 @@
 
 Hi there! I'm excited to share my latest project with you: Youdemi, a responsive educational website! 🚀
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen)]() 🌐
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen)](https://youdemibygouranga.netlify.app/) 🌐
 
 ## Features ✨
 
