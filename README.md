@@ -24,7 +24,7 @@ To run this project locally, follow these simple steps:
 
 1.  Clone the repository:
     ```bash
-    git clone 
+    git clone git@github.com:GourangaDasSamrat/Youdemi--Responsive-Educational-Website.git
     ```
 2.  Navigate to the project directory:
     ```bash
