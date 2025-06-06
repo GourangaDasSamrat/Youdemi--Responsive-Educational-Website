@@ -53,7 +53,7 @@ This project is licensed under the [MIT License](LICENSE).
 * YouTube: [https://www.youtube.com/@GourangaDasSamrat](https://www.youtube.com/@GourangaDasSamrat) ▶️
 * LinkedIn: [https://linkedin.com/in/gouranga-das-samrat](https://linkedin.com/in/gouranga-das-samrat) 
 * GitHub: [https://github.com/GourangaDasSamrat](https://github.com/GourangaDasSamrat) 
-* Portfolio: [https://gourangadas.netlify.app/](https://gourangadas.netlify.app/) 🌐
+* Portfolio: [https://gpuranga-das.netlify.app/](https://gpuranga-das.netlify.app/) 🌐
 * CodePen: [https://codepen.io/gouranga-das-samrat](https://codepen.io/gouranga-das-samrat) 🎨
 * LeetCode: [https://leetcode.com/u/cqq98g0hw0/](https://leetcode.com/u/cqq98g0hw0/) 💻
 * Blogger: [https://gourangadassamrat.blogspot.com/](https://gourangadassamrat.blogspot.com/) ✍️
